@@ -126,7 +126,21 @@
 }
 - (CGSize)collectionView:(UICollectionView *)collectionView layout:(UICollectionViewLayout*)collectionViewLayout sizeForItemAtIndexPath:(NSIndexPath *)indexPath
 {
-    return CGSizeMake([[UIScreen mainScreen]bounds].size.width, 100);
+    if (IS_IPHONE_6_plus)
+    {
+        return CGSizeMake([[UIScreen mainScreen]bounds].size.width, 131);
+
+    }
+    else if (IS_IPHONE_6)
+    {
+        return CGSizeMake([[UIScreen mainScreen]bounds].size.width, 128);
+
+    }
+    else
+    {
+        return CGSizeMake([[UIScreen mainScreen]bounds].size.width, 123);
+
+    }
 }
 - (IBAction)btnRightPopUpView:(id)sender
 {

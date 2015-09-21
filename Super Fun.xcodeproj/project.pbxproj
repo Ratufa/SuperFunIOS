@@ -1069,7 +1069,7 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
-				PROVISIONING_PROFILE = "02871b27-ab21-4beb-903f-427277756317";
+				PROVISIONING_PROFILE = "6a490cb1-6a64-49ad-b067-ca4d5f6ca208";
 				SDKROOT = iphoneos;
 			};
 			name = Debug;
@@ -1107,7 +1107,7 @@
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
 				MTL_ENABLE_DEBUG_INFO = NO;
-				PROVISIONING_PROFILE = "02871b27-ab21-4beb-903f-427277756317";
+				PROVISIONING_PROFILE = "6a490cb1-6a64-49ad-b067-ca4d5f6ca208";
 				SDKROOT = iphoneos;
 				VALIDATE_PRODUCT = YES;
 			};
@@ -1124,7 +1124,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LDFLAGS = "";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "02871b27-ab21-4beb-903f-427277756317";
+				PROVISIONING_PROFILE = "6a490cb1-6a64-49ad-b067-ca4d5f6ca208";
 			};
 			name = Debug;
 		};
@@ -1139,7 +1139,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LDFLAGS = "";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "02871b27-ab21-4beb-903f-427277756317";
+				PROVISIONING_PROFILE = "6a490cb1-6a64-49ad-b067-ca4d5f6ca208";
 			};
 			name = Release;
 		};
@@ -1160,7 +1160,7 @@
 				INFOPLIST_FILE = "Super FunTests/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "02871b27-ab21-4beb-903f-427277756317";
+				PROVISIONING_PROFILE = "6a490cb1-6a64-49ad-b067-ca4d5f6ca208";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Super Fun.app/Super Fun";
 			};
 			name = Debug;
@@ -1178,7 +1178,7 @@
 				INFOPLIST_FILE = "Super FunTests/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "02871b27-ab21-4beb-903f-427277756317";
+				PROVISIONING_PROFILE = "6a490cb1-6a64-49ad-b067-ca4d5f6ca208";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Super Fun.app/Super Fun";
 			};
 			name = Release;

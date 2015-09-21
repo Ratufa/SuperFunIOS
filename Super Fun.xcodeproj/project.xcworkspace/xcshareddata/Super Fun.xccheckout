@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>55C33B78-9E66-456F-AEBD-ED7ABF9D6677</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Super Fun</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>501C718EC29852093B48DFD2D4251786070E2484</key>
+		<string>https://github.com/Ratufa/SuperFunIOS.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Super Fun.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>501C718EC29852093B48DFD2D4251786070E2484</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Ratufa/SuperFunIOS.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>501C718EC29852093B48DFD2D4251786070E2484</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>501C718EC29852093B48DFD2D4251786070E2484</string>
+			<key>IDESourceControlWCCName</key>
+			<string>SuperFunIOS</string>
+		</dict>
+	</array>
+</dict>
+</plist>

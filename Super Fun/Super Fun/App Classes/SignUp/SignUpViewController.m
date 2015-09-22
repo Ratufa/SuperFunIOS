@@ -205,7 +205,6 @@
                 {
                     ALERT_SHOW([MCLocalization stringForKey:@"Super Fun"], [MCLocalization stringForKey:@"Please check your 'InterNet Connection'"],[MCLocalization stringForKey:@"Ok"])
                 }
-
             }
         }
     }
